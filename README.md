@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm 0gUsername</h1>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **rat**
 
 - 👨‍💻 All of my projects are available at [https://github.com/0gUsername](https://github.com/0gUsername)
 
